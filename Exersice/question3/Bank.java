@@ -24,7 +24,7 @@ class BankAccount
         }
         else
         {
-            System.out.println("enter +ve amoint");
+            System.out.println("enter positive positive");
         }
     }
 }
